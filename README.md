@@ -59,7 +59,7 @@ outer repo looks like this,
 ![Outer repo](outerrepo.png)
 
 <br>
-Repo you've created must look like this, naming must be done like this and read me here is not a readme created by you. you'll create readme inside this repo as below.
+Repo you've created must look like this, naming must be done like this and read me here is not a readme created by you this is readme of the main repo. you'll create readme inside project repo you'll be creating as below.
 
 ![Repo you have created](Repo_you_have_created.png)
 
