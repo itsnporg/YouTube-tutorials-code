@@ -37,7 +37,7 @@ I've to make a new directory as
 ```Code```
 <br>
 <br>
-inside this directory I'll add all my codes in this directory. 
+inside this directory I'll add all my codes
 
 <br>
 Directory Path must be like this : <br>
