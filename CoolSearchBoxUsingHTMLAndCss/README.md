@@ -1,4 +1,4 @@
-# In this video we'll learn to create A cool looking landing page using pure HTML and CSS
+# In this video we'll learn to create A cool looking search box using pure HTML and CSS
 
 <strong> - we'll be using HTML and CSS only. </strong>
 

@@ -3,7 +3,7 @@
 <strong> - we'll be using HTML and CSS onland a bit of bootstrap . </strong>
 
 
-### you can use this code in your projects  , do not forget to star before downloading code  if you liked our work sahre this among you friends
+### you can use this code in your projects  , do not forget to star before downloading code  if you liked our work and share this among your friends. ❤️
 
 <br>
 
