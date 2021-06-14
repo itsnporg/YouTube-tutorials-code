@@ -21,7 +21,7 @@ If I've a Youtube video title
 
 <br>
 <br>
-Then I'll Pull this repo <br>
+Then I'll Clone this repo <br>
  <br>
 I've to create a new directory inside it as 
  <br>
