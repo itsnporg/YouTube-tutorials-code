@@ -1,4 +1,4 @@
-## In this Repository You'll find all the Codes Our Contributors Share! [ YOuTube ]
+## In this Repository You'll find all the Codes Our Contributors Share! [ YouTube ]
 
 <br>
 
