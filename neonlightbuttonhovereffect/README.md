@@ -7,5 +7,5 @@
 
 <br>
 
-<strong> If you want to see full tutorial here it is : (tutorail link)
+<strong> If you want to see full tutorial here it is : (https://youtu.be/RUidJSzQqh0)
 
