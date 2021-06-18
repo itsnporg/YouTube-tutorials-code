@@ -6,8 +6,10 @@
 
 ## Run script:-
 ```bash 
-  git clone https://github.com/itsnporg/YouTube-tutorials-code/tree/main/facebook_automation/
-  cd facebook_automation && cd code
+  git clone https://github.com/itsnporg/YouTube-tutorials-code/
+  cd YouTube-tutorials-code
+  cd facebook_automation
+  cd code
   pip install -r requirements.txt
   python3 main.py
 ```
