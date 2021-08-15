@@ -1,9 +1,10 @@
-body{
+body {
     position: absolute;
     top: 40%;
     left: 40%;
 }
-button{
+
+button {
     font-size: 2.5em;
     padding: 10px 20px;
     cursor: pointer;
@@ -15,7 +16,8 @@ button{
     user-select: none;
     transition: 0.3s ease all;
 }
-button::after{
+
+button::after {
     content: '';
     position: absolute;
     top: 0;
@@ -26,10 +28,12 @@ button::after{
     opacity: 0;
     transition: 0.3s ease all;
 }
-button:hover{
+
+button:hover {
     color: white;
     background: #55ffe1;
 }
-button:hover::after{
+
+button:hover::after {
     opacity: 1;
 }

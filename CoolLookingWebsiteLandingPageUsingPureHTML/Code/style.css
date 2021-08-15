@@ -1,46 +1,52 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
     font-family: sans-serif;
 }
-body{
+
+body {
     height: 100vh;
     width: 100%;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
-.logo a img{
+
+.logo a img {
     height: 150px;
     margin: 0 15px;
 }
-.links{
+
+.links {
     float: right;
     margin: 15px;
     transform: translateY(-100px);
 }
-.links a{
+
+.links a {
     margin: 15px;
     font-size: 18px;
     color: white;
 }
 
-.links a:hover{
+.links a:hover {
     color: #E3094E;
 }
-a.subscribe{
+
+a.subscribe {
     font-weight: 550;
     padding: 10px 15px;
     background: #E3094E;
     border-radius: 30px;
 }
-a.subscribe:hover{
+
+a.subscribe:hover {
     color: white;
 }
 
-.body-content{
+.body-content {
     color: whitesmoke;
     position: absolute;
     text-align: center;
@@ -48,12 +54,13 @@ a.subscribe:hover{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.body-content h1{
+
+.body-content h1 {
     margin: 10px;
     font-size: 7rem;
 }
 
-.body-content h1::after{
+.body-content h1::after {
     content: '';
     top: 5%;
     position: absolute;
@@ -63,11 +70,13 @@ a.subscribe:hover{
     width: 55%;
     border-bottom: 3px solid #E3094E;
 }
-.body-content h2{
+
+.body-content h2 {
     margin: 10px;
     font-size: 2rem;
 }
-button{
+
+button {
     padding: 10px 15px;
     font-size: 18px;
     font-weight: 650;

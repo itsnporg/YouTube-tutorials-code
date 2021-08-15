@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #00ffdd;
+    background: white;
 }
 
 .search-box {
@@ -15,7 +15,7 @@ body {
     padding: 10px;
 }
 
-.search-box:hover > .search-txt {
+.search-box:hover>.search-txt {
     width: 240px;
     padding: 0 6px;
 }
@@ -41,7 +41,7 @@ body {
     outline: none;
     float: left;
     padding: 0;
-    color: rgb(0, 255, 0);
+    color: rgb(255, 255, 255);
     font-size: 16px;
     transition: 0.4s;
     line-height: 40px;
@@ -49,11 +49,11 @@ body {
     font-weight: bold;
 }
 
-.search-box:hover > .search-btn {
+.search-box:hover>.search-btn {
     background: rgb(255, 255, 255);
     color: black;
 }
 
-.buscar-btn>i {
+.buscfar-btn>i {
     font-size: 30px;
 }
